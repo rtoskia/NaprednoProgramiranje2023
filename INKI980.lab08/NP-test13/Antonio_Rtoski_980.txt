@@ -1,0 +1,25 @@
+Odgovor: b
+Odgovor: 
+Odgovor: b
+Odgovor: 
+Odgovor: a
+Odgovor: 
+Odgovor: c
+Odgovor: 
+Odgovor: c
+Odgovor: 
+Odgovor: a
+Odgovor: 
+Odgovor: a
+Odgovor: 
+Odgovor: c
+Odgovor: 
+Odgovor: b
+Odgovor: 
+Odgovor: b
+Vreme na pocetok: 2023-04-24 12:17:35
+Ime na studentot: Antonio Prezime: Rtoski
+Indeks: 980
+Poeni: 30
+Ocena: 5
+Kraj na kviz: 2023-04-24 12:18:27

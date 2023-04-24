@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682328758 source:c:\users\user\documents\main\mainrepos\naprednoprogramiranje2023\inki980.lab08\np-test13\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
